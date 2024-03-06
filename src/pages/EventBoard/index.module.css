@@ -1,0 +1,24 @@
+.create-schedule-modal {
+  background-color: white;
+  margin: 100px auto 0 auto;
+  width: 500px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+.create-schedule-modal ul {
+  border: 1px solid grey;
+  width: 90%;
+  min-height: 100px;
+}
+.create-schedule-modal li {
+  width: fit-content;
+  padding: 3px;
+}
+.schedule-container {
+  min-width: 500px;
+  margin-top: 100px;
+}
+.schedule-container button {
+  width: fit-content;
+}
